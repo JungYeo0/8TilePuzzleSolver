@@ -1,0 +1,46 @@
+Select Input option
+1. Input your own puzzle
+2. Random Inputs
+e. Exit
+: a
+Select Run type
+1. Using Inversions
+2. Using Manhatten Distances
+: 1
+input number of tests: 500
+Begining h1 Tests...
+H1 Results
+29
+Depth: 11       Average Cost: 187       Total Test Cases: 229   Avg Run Time: 6
+Depth: 12       Average Cost: 256       Total Test Cases: 31    Avg Run Time: 8
+Depth: 13       Average Cost: 356       Total Test Cases: 78    Avg Run Time: 10
+Depth: 15       Average Cost: 968       Total Test Cases: 21    Avg Run Time: 28
+Depth: 16       Average Cost: 1668      Total Test Cases: 25    Avg Run Time: 70
+Depth: 17       Average Cost: 2045      Total Test Cases: 20    Avg Run Time: 72
+Depth: 18       Average Cost: 3585      Total Test Cases: 8     Avg Run Time: 169
+Depth: 19       Average Cost: 6142      Total Test Cases: 20    Avg Run Time: 326
+Depth: 20       Average Cost: 8102      Total Test Cases: 14    Avg Run Time: 524
+Depth: 21       Average Cost: 15347     Total Test Cases: 12    Avg Run Time: 1289
+Depth: 22       Average Cost: 19528     Total Test Cases: 12    Avg Run Time: 1959
+Depth: 23       Average Cost: 34323     Total Test Cases: 5     Avg Run Time: 5063
+Depth: 24       Average Cost: 47307     Total Test Cases: 9     Avg Run Time: 9166
+Depth: 25       Average Cost: 76587     Total Test Cases: 8     Avg Run Time: 20404
+Depth: 26       Average Cost: 105499    Total Test Cases: 5     Avg Run Time: 39718
+Depth: 27       Average Cost: 187728    Total Test Cases: 1     Avg Run Time: 96287
+Depth: 28       Average Cost: 189473    Total Test Cases: 1     Avg Run Time: 109069
+Depth: 29       Average Cost: 343792    Total Test Cases: 1     Avg Run Time: 268613
+Begining h2 Tests...
+H2 Results
+26
+Depth: 18       Average Cost: 313       Total Test Cases: 206   Avg Run Time: 8
+Depth: 19       Average Cost: 268       Total Test Cases: 230   Avg Run Time: 7
+Depth: 21       Average Cost: 1418      Total Test Cases: 28    Avg Run Time: 45
+Depth: 22       Average Cost: 3151      Total Test Cases: 7     Avg Run Time: 120
+Depth: 23       Average Cost: 3230      Total Test Cases: 7     Avg Run Time: 123
+Depth: 24       Average Cost: 3222      Total Test Cases: 7     Avg Run Time: 123
+Depth: 26       Average Cost: 1827      Total Test Cases: 15    Avg Run Time: 59
+Select Input option
+1. Input your own puzzle
+2. Random Inputs
+e. Exit
+:
